@@ -39,7 +39,7 @@
     "node-schedule": "2.1.1",
     "parse-duration": "1.1.0",
     "sequelize": "6.33.0",
-    "sqlite3": "5.1.6",
+    "sqlite3": "5.1.7",
     "stop-discord-phishing": "0.3.3"
   },
   "optionalDependencies": {
