@@ -20,7 +20,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "@androz2091/discord-invites-tracker": "1.1.1",
-    "@pixelfactory/privatebin": "2.6.1",
+    "@pixelfactory/privatebin": "2.6.2",
     "@scderox/ikea-name-generator": "1.0.0",
     "@twurple/api": "5.3.4",
     "@twurple/auth": "5.3.4",
